@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @pimliprentiss
 - 👀 I’m interested in Devops
-- 🌱 I’m currently learning CI/CD
-- 💞️ I’m looking to collaborate on Linux Scripts
+- 🌱 I’m currently working on CI/CD
+- 💞️ I’m looking to collaborate on Bash Scripts
 - 📫 How to reach me junior26atc@gmail.com 
 
 <!---
